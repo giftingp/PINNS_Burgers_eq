@@ -4,7 +4,7 @@ We implement Physics informed neural networks (PINNs) to solve 1d Burgers equati
 
 <div align="center">
   
-  <img src="Training_loss.png" alt="PINN Training Loss" width="75%">
+  <img src="Training_loss.png" alt="PINN Training Loss" width="50%">
   
   <br>
   
@@ -14,4 +14,8 @@ We implement Physics informed neural networks (PINNs) to solve 1d Burgers equati
 
 <div align="center">
   <img src="https://github.com/giftingp/PINNS_Burgers_eq/blob/main/Burger_initial_condition.gif" alt="Burger initial condition">
+  
+  <br>
+  
+  **Figure 2**: PINNs prediction at initial condition with increasing epochs.
 </div>
