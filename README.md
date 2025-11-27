@@ -4,7 +4,11 @@ We implement Physics informed neural networks (PINNs) to solve 1d Burgers equati
 
 <div align="center">
   
-  ![Training Loss](Training_loss.png)
+  <img src="Training_loss.png" alt="PINN Training Loss" width="75%">
+  
+  <br>
+  
+  **Figure 1**: Training loss history
   
 </div>
 
