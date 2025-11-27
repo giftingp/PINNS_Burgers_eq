@@ -4,7 +4,7 @@ We implement Physics informed neural networks (PINNs) to solve 1d Burgers equati
 
 <div align="center">
   
-  <img src="Training_loss.png" alt="PINN Training Loss" width="50%">
+  <img src="Training_loss.png" alt="PINN Training Loss" width="70%">
   
   <br>
   
